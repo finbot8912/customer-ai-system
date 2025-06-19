@@ -63,7 +63,7 @@
 
 1. **GitHub 저장소 복제:**
    ```bash
-   git clone https://github.com/[사장님_GitHub_ID]/customer-ai-system.git
+   git clone https://github.com/finbot8912/customer-ai-system.git
    cd customer-ai-system
 
 # 가상환경 생성
